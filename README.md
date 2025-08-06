@@ -1,4 +1,11 @@
 ### Olá Eu sou o Vitor
+Profissional de TI com mais de 10 anos de experiência, atuando nos últimos anos com foco em análise de 
+dados e inteligência de negócios. Especialista em Power BI, governança de dados, integração com APIs, 
+automação de ETL, modelagem de dados e criação de dashboards que apoiam decisões estratégicas. 
+Experiência sólida em infraestrutura, suporte técnico, segurança da informação e gestão de projetos. Perfil 
+analítico, colaborativo e orientado a resultados, com habilidade para transformar dados em ações que otimizam 
+processos e impulsionam o desempenho organizacional.
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorpielak-ti/)
 
 
